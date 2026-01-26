@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Support - Sudoku Mind Puzzle</title>
+    <style>
+        * { box-sizing: border-box; }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, sans-serif;
+            line-height: 1.7;
+            max-width: 600px;
+            margin: 0 auto;
+            padding: 40px 20px;
+            color: #333;
+            background: #f9f9f9;
+        }
+        h1 {
+            color: #1a1a2e;
+            border-bottom: 2px solid #66BB6A;
+            padding-bottom: 10px;
+            margin-bottom: 30px;
+        }
+        .logo {
+            text-align: center;
+            margin-bottom: 30px;
+        }
+        .logo span {
+            font-size: 48px;
+        }
+        .contact-box {
+            background: #e8f5e9;
+            padding: 25px;
+            border-radius: 10px;
+            margin: 25px 0;
+            text-align: center;
+        }
+        .contact-box a {
+            color: #43A047;
+            font-size: 18px;
+            font-weight: 600;
+            text-decoration: none;
+        }
+        .contact-box a:hover {
+            text-decoration: underline;
+        }
+        .faq { margin-top: 40px; }
+        .faq h2 { color: #16213e; }
+        .faq-item { margin: 20px 0; }
+        .faq-item h3 {
+            color: #2c3e50;
+            margin-bottom: 5px;
+            font-size: 16px;
+        }
+        .faq-item p {
+            margin: 0;
+            color: #555;
+        }
+        .tips {
+            background: #fff3e0;
+            padding: 20px;
+            border-radius: 10px;
+            margin: 30px 0;
+            border-left: 4px solid #FF9800;
+        }
+        .tips h2 {
+            margin-top: 0;
+            color: #E65100;
+            font-size: 18px;
+        }
+        .tips ul {
+            margin: 0;
+            padding-left: 20px;
+        }
+        .tips li {
+            margin: 8px 0;
+        }
+        footer {
+            margin-top: 50px;
+            text-align: center;
+            color: #888;
+            font-size: 14px;
+        }
+        footer a { color: #43A047; }
+    </style>
+</head>
+<body>
+    <div class="logo">
+        <span>🧩</span>
+    </div>
+
+    <h1>Sudoku - Mind Puzzle Support</h1>
+
+    <p>Thanks for playing Sudoku - Mind Puzzle! We're here to help if you have any questions, feedback, or issues.</p>
+
+    <div class="contact-box">
+        <p>Contact us at:</p>
+        <a href="mailto:chillwithnafu@gmail.com">chillwithnafu@gmail.com</a>
+    </div>
+
+    <p>We typically respond within 24-48 hours.</p>
+
+    <div class="tips">
+        <h2>Quick Tips</h2>
+        <ul>
+            <li><strong>Stuck on a puzzle?</strong> Use the Hint feature to reveal the correct number for a selected cell.</li>
+            <li><strong>Made a mistake?</strong> Tap Undo to go back, or use Notes mode to track possible numbers.</li>
+            <li><strong>Track your progress</strong> - Your best times are saved for each difficulty level!</li>
+        </ul>
+    </div>
+
+    <div class="faq">
+        <h2>Frequently Asked Questions</h2>
+
+        <div class="faq-item">
+            <h3>How do I use Notes mode?</h3>
+            <p>Tap the Notes button (pencil icon) to toggle Notes mode. When active, tapping a number will add/remove it as a small note in the selected cell instead of placing it as your answer.</p>
+        </div>
+
+        <div class="faq-item">
+            <h3>What happens when I make 3 mistakes?</h3>
+            <p>After 3 mistakes, the game ends. You can watch a short video to continue where you left off, or start a new puzzle.</p>
+        </div>
+
+        <div class="faq-item">
+            <h3>How do I get more Undos?</h3>
+            <p>You start each puzzle with 3 free undos. Once used, you can watch a short video to earn more. The first video gives 3 undos, the second gives 2, and subsequent videos give 1 each.</p>
+        </div>
+
+        <div class="faq-item">
+            <h3>How do I reset my best times?</h3>
+            <p>You can reset your game data by uninstalling and reinstalling the app, or by clearing the app's data in your device settings.</p>
+        </div>
+
+        <div class="faq-item">
+            <h3>Why am I seeing ads?</h3>
+            <p>Sudoku - Mind Puzzle is a free game supported by advertisements. Ads help us keep the game free for everyone while continuing to improve it.</p>
+        </div>
+
+        <div class="faq-item">
+            <h3>Can I play offline?</h3>
+            <p>Yes! Puzzles are generated on your device, so you can play without an internet connection. Some features like watching videos for hints may require connectivity.</p>
+        </div>
+
+        <div class="faq-item">
+            <h3>What do the difficulty levels mean?</h3>
+            <p><strong>Easy:</strong> 38-45 clues, great for beginners.<br>
+               <strong>Medium:</strong> 32-37 clues, a balanced challenge.<br>
+               <strong>Hard:</strong> 28-31 clues, requires advanced techniques.<br>
+               <strong>Expert:</strong> 22-27 clues, for Sudoku masters only!</p>
+        </div>
+
+        <div class="faq-item">
+            <h3>The game isn't loading properly. What should I do?</h3>
+            <p>Try closing the app completely and reopening it. If the issue persists, try restarting your device or reinstalling the app.</p>
+        </div>
+
+        <div class="faq-item">
+            <h3>How do I report a bug?</h3>
+            <p>Please email us with a description of the issue, your device model, and OS version. Screenshots are very helpful!</p>
+        </div>
+
+        <div class="faq-item">
+            <h3>Why does the app ask to track my activity?</h3>
+            <p>This permission allows us to show you more relevant ads. You can decline and still enjoy the full game - ads will just be less personalized.</p>
+        </div>
+    </div>
+
+    <footer>
+        <p>
+            <a href="privacy.html">Privacy Policy</a> ·
+            <a href="terms.html">Terms of Use</a>
+        </p>
+        <p>&copy; 2025 ChillWithNaFu</p>
+    </footer>
+</body>
+</html>
